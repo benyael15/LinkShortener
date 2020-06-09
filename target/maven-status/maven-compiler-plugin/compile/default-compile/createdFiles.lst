@@ -1,0 +1,6 @@
+Server/ServerApplicationVertical.class
+Enums/Application.class
+Enums/OperationSystem.class
+Enums/Browser.class
+LinkData/Visit.class
+LinkData/LinkCache.class
